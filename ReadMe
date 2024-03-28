@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6603f45d92305d28305dda50",
+        "expenseName": null,
+        "expenseCategory": "GROCERIES",
+        "expenseAmount": 10
+    },
+    {
+        "id": "6603f9c392305d28305dda51",
+        "expenseName": null,
+        "expenseCategory": "ENTERTAINMENT",
+        "expenseAmount": 150
+    }
+]
